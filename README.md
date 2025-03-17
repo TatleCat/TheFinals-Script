@@ -1,2 +1,2 @@
-# TheFinals-auto-script
+# TheFinals-auto script
 AutoF1 F2CursorLock
